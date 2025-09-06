@@ -44,7 +44,8 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/JOE54466/JOE54466/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  ![Snake animation](https://raw.githubusercontent.com/JOE54466/JOE54466/output/snake.svg)
+
 </p>
 
 ---
