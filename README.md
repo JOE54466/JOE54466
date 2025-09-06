@@ -1,4 +1,4 @@
-<img width="792" height="734" alt="image" src="https://github.com/user-attachments/assets/c6cd0a02-43c7-45fd-b6ca-afbae1c209bb" /><!-- Typing SVG -->
+<!-- Typing SVG -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Jeet+Roy;Python+%26+AI+Developer;Generative+AI+Enthusiast;Flask+%7C+LLMs+%7C+Research+Apps" />
 </h1>
@@ -43,8 +43,8 @@
 ---
 
 ### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/JOE54466/JOE54466/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://raw.githubusercontent.com/JOE54466/JOE54466/output/github-contribution-grid-snake.svg)
 
 
 ---
