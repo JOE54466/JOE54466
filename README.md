@@ -43,10 +43,10 @@
 ---
 
 ### 🐍 Contribution Snake
-<p align="center">
-![Snake animation](https://raw.githubusercontent.com/JOE54466/JOE54466/output/github-contribution-grid-snake.svg)
- 
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/JOE54466/JOE54466/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
