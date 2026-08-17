@@ -1,5 +1,3 @@
-<img width="792" height="734" alt="image" src="https://github.com/user-attachments/assets/c6cd0a02-43c7-45fd-b6ca-afbae1c209bb" />
-
 <!-- Typing SVG -->
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Jeet+Roy;CSE+Student+%7C+AI+Developer;Generative+AI+%26+LLM+Enthusiast;Building+AI-Powered+Backend+Systems" />
